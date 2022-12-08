@@ -1,1 +1,1 @@
-# Trabajo-SSOOI-Bolos
+# Práctica-final-SSOOI-Bolos
